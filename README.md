@@ -13,7 +13,9 @@ Consolidate CSS styles (CSS selectors).
 if you see style properties that are duplicates, than consider if you can delete the duplicates and have one style rule (including the Class or element selector and CSS properties) to style many HTML elements
 
 Change title to SEO
-Add <Header>
+Add <Header> 
+    Changed CSS to match
 Add <Nav> tags around navigation links
 Add <Section=Hero>
 Add <Footer> section
+Added <Alt> to all images
