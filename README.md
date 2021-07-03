@@ -10,7 +10,7 @@ Added Alt to all images for better accessibility (Screen Readers)<br>
 <br>
 Fixed all links - They now navigate to the correct place.<br>
 <br>
-# There were several duplications in HTML and CSS that I merged and cleaned up.<br>
+## There were several duplications in HTML and CSS that I merged and cleaned up.<br>
 Merged/Cleaned up several divs under Content, including in CSS<br>
 Merged several divs under Benefits, including in CSS<br>
 <br><br>
