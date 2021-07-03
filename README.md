@@ -20,6 +20,7 @@ Add <Nav> tags around navigation links
 Add <Section=Hero>
 Add <Footer> section
 Added <Alt> to all images
+Fixed all links - They now navigate to the correct place.
 Merged/Cleaned up several divs under Content, including in CSS
 Merged several divs under Benefits, including in CSS
 
